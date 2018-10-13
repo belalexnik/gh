@@ -16,7 +16,7 @@ public class HelloWorld {
         System.out.println("intValue="+intValue);
 
         // ArrayList
-        ArrayList<String> list = new  ArrayList<>();
+        ArrayList<String> list = new ArrayList<>();
         for (int i=0; i < 10; i++){
             list.add("item="+String.valueOf(i));
         }
