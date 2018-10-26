@@ -42,10 +42,46 @@ public class HelloWorld {
 //        // CurrentThreadDemo
 //        CurrentRhreadDemo.Start();
 
-        // DemoJoin
-        DemoJoin.main(new String[]{"1"});
+//        // DemoJoin
+//        DemoJoin.main(new String[]{"1"});
 
-        // hjihjknlkk
+//        // TreeSetDemo
+//        TreeSetDemo.Start();
 
+//        ArrayDequeDemo.Start();
+
+//        ForEachDemo.Start();
+
+
+//        SpliteratorDemo.Start();
+
+//        CompDemo2.Start();
+
+//        ArraysDemo.Start();
+
+//        HTDemo.Start();
+
+//        HTDemo2.Start();
+
+//        PropDemo.Start();
+
+//        PropDemoDef.Start();
+
+//        STDemo.Start();
+
+//        OptionalDemo.Start();
+
+//        CalendarDemo.Start();
+
+//        TTest.Start();
+
+//        FormatDemo2.Start();
+
+//        TimeDateFormat.Start();
+
+//        PrecisionDemo.Start();
+
+        AvgNums.Start();
+		
     }
 }
